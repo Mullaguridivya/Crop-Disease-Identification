@@ -1,0 +1,6 @@
+python -m venv cdicm
+
+cdi\Scripts\activate
+
+
+pip freeze > requirements.txt
