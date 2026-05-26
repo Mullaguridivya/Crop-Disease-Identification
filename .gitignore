@@ -4,3 +4,9 @@ __pycache__/
 venv/
 cdi/
 static/uploads/
+__pycache__/
+*.pyc
+*.h5
+venv/
+cdi/
+static/uploads/
