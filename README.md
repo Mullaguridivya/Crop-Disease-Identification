@@ -19,7 +19,13 @@ This project identifies crop diseases using leaf images with the help of Deep Le
 - Matplotlib
 
 ## Dataset
-Mango leaf disease image dataset containing healthy and diseased leaf categories(i.e., black soothy modl, anthracnose).
+
+The model was trained using the **Harumanis Leaves Basic 2021** dataset.
+
+**Source:**
+https://www.kaggle.com/datasets/mypapit/harumanis-leaves-basic-2021
+
+The dataset is not included in this repository due to its size. Users can download the dataset from Kaggle and place it in the `dataset/` directory before training the model.
 
 ## Model Used
 ResNet50 pre-trained CNN model with transfer learning.
